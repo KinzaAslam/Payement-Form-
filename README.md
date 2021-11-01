@@ -1,2 +1,2 @@
 # Payement-Form-
-I am using HTML to make this form and Styling by using CSS
+I am using HTML to make this payement form and designing by using CSS
